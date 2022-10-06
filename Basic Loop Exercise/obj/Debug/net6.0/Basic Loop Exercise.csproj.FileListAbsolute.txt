@@ -1,0 +1,15 @@
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\bin\Debug\net6.0\Basic Loop Exercise.exe
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\bin\Debug\net6.0\Basic Loop Exercise.deps.json
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\bin\Debug\net6.0\Basic Loop Exercise.runtimeconfig.json
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\bin\Debug\net6.0\Basic Loop Exercise.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\bin\Debug\net6.0\Basic Loop Exercise.pdb
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\refint\Basic Loop Exercise.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.pdb
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\Basic Loop Exercise.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Basic Loop Exercise\obj\Debug\net6.0\ref\Basic Loop Exercise.dll

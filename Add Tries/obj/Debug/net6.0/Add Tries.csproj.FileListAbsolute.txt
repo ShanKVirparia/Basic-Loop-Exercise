@@ -1,0 +1,15 @@
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\bin\Debug\net6.0\Add Tries.exe
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\bin\Debug\net6.0\Add Tries.deps.json
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\bin\Debug\net6.0\Add Tries.runtimeconfig.json
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\bin\Debug\net6.0\Add Tries.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\bin\Debug\net6.0\Add Tries.pdb
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\refint\Add Tries.dll
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.pdb
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\Add Tries.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp Repo\Basic Loop Exercise\Add Tries\obj\Debug\net6.0\ref\Add Tries.dll
